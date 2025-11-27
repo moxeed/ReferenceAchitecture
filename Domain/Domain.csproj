@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="0. BusinessRule\" />
+    <Folder Include="2. ValueObject\" />
+    <Folder Include="3. Services\" />
+    <Folder Include="4. Dependecies\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\0. Architecture\Architecture.csproj" />
+  </ItemGroup>
+
+</Project>
