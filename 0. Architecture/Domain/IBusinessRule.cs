@@ -2,6 +2,6 @@
 {
     public interface IBusinessRule<T> where T : IEntity
     {
-        void Check(T entity);
+        static abstract void Check(T entity);
     }
 }

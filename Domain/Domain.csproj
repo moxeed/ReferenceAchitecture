@@ -7,13 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="0. BusinessRule\" />
-    <Folder Include="2. ValueObject\" />
-    <Folder Include="3. Services\" />
-    <Folder Include="4. Dependecies\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\0. Architecture\Architecture.csproj" />
   </ItemGroup>
 
