@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Architecture Overview/Software Modules.md",
+                "file": "3. Architecture Overview/4. Software Modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software Modules"
+              "title": "4. Software Modules"
             }
           }
         ]
@@ -172,27 +172,29 @@
   "active": "47ed7d43a36152d5",
   "lastOpenFiles": [
     "3. Architecture Overview/3. Controller Datapath Model.md",
-    "3. Architecture Overview/Software Modules.md",
     "3. Architecture Overview/2. Script Specification Spectrum.md",
+    "3. Architecture Overview/1. Flow Models.md",
+    "3. Architecture Overview/Assets/ArchitectureDiagram.png",
+    "3. Architecture Overview/Assets",
+    "Auto Documentation.md",
+    "Questions.md",
+    "3. Architecture Overview/4. Software Modules.md",
+    "1. Need/2. Hidden Conflicts in Software Development.md",
+    "1. Need/3. Software Company Hierarchy.md",
+    "1. Need/4. Team Stalemate.md",
+    "1. Need/5. Documents.md",
     "2. Approach/2. Developer Guide.md",
     "2. Approach/3. Architecture Decision Record.md",
-    "3. Architecture Overview/1. Flow Models.md",
+    "2. Approach/4. Architectural Runaway.md",
     "2. Approach/5. Conwey's Rule.md",
     "2. Approach/1. Index.md",
-    "2. Approach/4. Architectural Runaway.md",
     "3. What Is A Reference Architecture.md",
     "1. Need/1. Index.md",
-    "1. Need/2. Hidden Conflicts in Software Development.md",
     "9. Light Bulbs.md",
     "10. Glossary.md",
-    "Auto Documentation.md",
     "Domain.md",
-    "Questions.md",
     "Enforce.md",
     "3. Architecture Overview",
-    "1. Need/5. Documents.md",
-    "1. Need/4. Team Stalemate.md",
-    "1. Need/3. Software Company Hierarchy.md",
     "Developer.md",
     "Hidden.md",
     "2. Approach",
