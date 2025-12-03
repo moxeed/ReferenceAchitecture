@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Architecture Overview/1. Domain/1. Index.md",
+                "file": "Resources/Naming Convention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Index"
+              "title": "Naming Convention"
             }
           },
           {
-            "id": "87e65da74b568766",
+            "id": "542e17b736f09701",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Need/2. Hidden Conflicts in Software Development.md",
+                "file": "Resources/Naming Convention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Hidden Conflicts in Software Development"
+              "title": "Naming Convention"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,40 +195,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ed7d43a36152d5",
+  "active": "542e17b736f09701",
   "lastOpenFiles": [
-    "3. Architecture Overview/1. Domain/2. Building Blocks.md",
-    "3. Architecture Overview/Assets/ArchitectureDiagram.png",
-    "3. Architecture Overview/Assets/Architecture Wheel.png",
-    "3. Architecture Overview/Assets/Architecture Wheel.png",
-    "1. Need/5. Documents.md",
-    "Resources/Driven Development Ontology.md",
-    "Resources/Green-Field Brown-Field.md",
     "Resources/MarkLogic-RefArch.pdf",
-    "Resources/Database Tier of Mark Logic.png",
-    "Resources/API.md",
-    "Auto Documentation.md",
-    "Questions.md",
-    "Enforce.md",
+    "Resources/System Events and Business Events.md",
     "10. Glossary.md",
+    "Auto Documentation.md",
+    "Enforce.md",
+    "Questions.md",
     "9. Light Bulbs.md",
     "3. What Is A Reference Architecture.md",
-    "3. Architecture Overview/6. Code Navigation.md",
-    "Domain.md",
-    "3. Architecture Overview/1. Domain/1. Index.md",
+    "Resources/Naming Convention.md",
+    "Resources/Do Not Override Behavior.md",
+    "3. Architecture Overview/1. Domain/2. Building Blocks.md",
+    "1. Need/2. Hidden Conflicts in Software Development.md",
     "3. Architecture Overview/5. Control Flow Graph.md",
-    "3. Architecture Overview/4. Software Modules.md",
+    "3. Architecture Overview/6. Code Navigation.md",
+    "3. Architecture Overview/1. Domain/1. Index.md",
     "3. Architecture Overview/1. Flow Models.md",
+    "Resources/Database Tier of Mark Logic.png",
+    "Resources/Green-Field Brown-Field.md",
+    "Resources/Driven Development Ontology.md",
+    "3. Architecture Overview/4. Software Modules.md",
     "3. Architecture Overview/2. Script Specification Spectrum.md",
+    "3. Architecture Overview/Assets/Architecture Wheel.png",
+    "3. Architecture Overview/Assets/ArchitectureDiagram.png",
+    "1. Need/5. Documents.md",
+    "Resources/API.md",
+    "Domain.md",
     "3. Architecture Overview/3. Controller Datapath Model.md",
     "3. Architecture Overview/1. Domain",
     "2. Approach/1. Index.md",
-    "1. Need/2. Hidden Conflicts in Software Development.md",
     "3. Architecture Overview/Assets/ArchitectureDiagram 1.png",
     "2. Approach/4. Architectural Runaway.md",
-    "2. Approach/3. Architecture Decision Record.md",
-    "2. Approach/2. Developer Guide.md",
-    "2. Approach/5. Conwey's Rule.md",
     "3. Architecture Overview/Assets",
     "3. Architecture Overview",
     "2. Approach",
