@@ -1,0 +1,21 @@
+![[Process Model.png]]
+#### Validation
+A piece of code to test data against a defined set of conditions and rules and decide whether its is valid or not. In case of any violation, it should describe why the data in invalid and is against which rule.
+#### Ensure
+Double check internal data to ensure not invariant is violated.
+#### Mutation
+1. Run [[Telescopic Code Model#Validation]]
+2. Mutate Internal Data
+3. Run [[Telescopic Code Model#Ensure]]
+no checks or branching is done inside mutate blocks.
+in C# they are equivalent to property setters but could be coded separately.
+#### Transition
+Moving from on state in the [[3. Controller Datapath Model#1. Controllers With an FSM|FSM]] of entity to another by mutating internal state.
+This could also be assigned to a execution context if needed to handle technical state required by application.
+#### Derive
+The [[3. Controller Datapath Model#2. Controllers Without an FSM|No FSM]] resolution of an state from internal and external data, and state machines.
+#### Decision
+Decide which transitions, flow, or mutations to perform based on the internal or derived states.
+#### Flow
+Chain decisions together. The start node.
+
