@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Architecture Overview/1. Domain/3. Telescopic Code Model.md",
+                "file": "8. Expectations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Telescopic Code Model"
+              "title": "8. Expectations"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Architecture Overview/1. Domain/3. Telescopic Code Model.md",
+                "file": "8. Expectations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Telescopic Code Model"
+              "title": "Outline of 8. Expectations"
             }
           },
           {
@@ -182,8 +182,10 @@
   },
   "active": "45793b28218d30f8",
   "lastOpenFiles": [
-    "Resources/Assets/Process Model.png",
     "3. Architecture Overview/1. Domain/3. Telescopic Code Model.md",
+    "8. Expectations.md",
+    "4. Expe",
+    "Resources/Assets/Process Model.png",
     "Resources/System Events and Business Events.md",
     "Resources/Green-Field Brown-Field.md",
     "Resources/Naming Convention.md",
@@ -216,7 +218,6 @@
     "Resources/MarkLogic-RefArch.pdf",
     "DrawIO/Architecture Wheel.drawio",
     "DrawIO",
-    "New folder",
     "3. What Is A Reference Architecture.md",
     "Resources/Do Not Override Behavior.md",
     "1. Need/2. Hidden Conflicts in Software Development.md",
