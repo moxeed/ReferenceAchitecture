@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insights/EF/Using STRING_SPlIT() in EFCore.md",
+                "file": "Insights/EF/Using STRING_SPLIT() in EFCore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using STRING_SPlIT() in EFCore"
+              "title": "Using STRING_SPLIT() in EFCore"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insights/EF/Using STRING_SPlIT() in EFCore.md",
+                "file": "Insights/EF/Using STRING_SPLIT() in EFCore.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Using STRING_SPlIT() in EFCore"
+              "title": "Outline of Using STRING_SPLIT() in EFCore"
             }
           },
           {
@@ -180,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d52e54b8101025ea",
+  "active": "36c34793afa947bf",
   "lastOpenFiles": [
     "Insights/EF",
     "Resources/Naming Convention.md",
-    "Insights/EF/Using STRING_SPlIT() in EFCore.md",
+    "Insights/EF/Using STRING_SPLIT() in EFCore.md",
     "Insights",
     "3. Architecture Overview/Assets/Rmdp DrawIO.svg",
     "DrawIO/Untitled Diagram.drawio",
